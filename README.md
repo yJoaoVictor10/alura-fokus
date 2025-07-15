@@ -132,7 +132,5 @@ Desenvolvido por João Victor.
 Confira mais projetos nos links abaixo:
 
 🔗 **Versão hospedada no Vercel**  
-https://alura-fokus-tawny-sigma.vercel.app/
+https://alura-fokus-phi.vercel.app/
 
-🔗 **Versão hospedada no GitHub Pages**  
-https://yjoaovictor10.github.io/alura-fokus/
